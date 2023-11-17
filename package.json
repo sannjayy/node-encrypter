@@ -1,0 +1,32 @@
+{
+    "name": "node-encrypter",
+    "version": "1.0.0",
+    "description": "Encrypt and decrypt strings.",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sannjayy/node-encrypter"
+    },
+    "keywords": [
+        "decryption",
+        "cryptr",
+        "encrypter",
+        "node",
+        "password",
+        "cookie",
+        "decrypt",
+        "encrypt",
+        "encryptor",
+        "password hash"
+    ],
+    "author": "Sanjay Sikdar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sannjayy/node-encrypter/issues"
+    },
+    "homepage": "https://github.com/sannjayy/node-encrypter#readme",
+    "dependencies": {}
+}
