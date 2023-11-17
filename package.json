@@ -1,6 +1,6 @@
 {
     "name": "node-encrypter",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "Encrypt and decrypt strings.",
     "main": "index.js",
     "scripts": {
